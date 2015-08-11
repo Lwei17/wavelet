@@ -2,3 +2,4 @@ clear;
 clc;
 load V104.mat;
 p=1;
+x=V(p.:);
